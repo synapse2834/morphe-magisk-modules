@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.41.0.mpp)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/synapse2834/morphe-magisk-modules/releases/download/4/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.42.0.mpp)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/synapse2834/morphe-magisk-modules/releases/download/6/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/synapse2834/morphe-magisk-modules/update/build.md"
 }
