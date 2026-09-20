@@ -1,6 +1,6 @@
 {
-  "version": "v7.92.0.977185651 (patches 1.4.2.mpp)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/synapse2834/morphe-magisk-modules/releases/download/9/googlephotos-revanced-module-v7.92.0.977185651-all.zip",
+  "version": "v7.92.0.977185651 (patches 1.4.3.mpp)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/synapse2834/morphe-magisk-modules/releases/download/10/googlephotos-revanced-module-v7.92.0.977185651-all.zip",
   "changelog": "https://raw.githubusercontent.com/synapse2834/morphe-magisk-modules/update/build.md"
 }
